@@ -1,0 +1,6 @@
+name: BookBanDoctor
+main: com.doctor.BookBanDoctor
+version: 1.0
+api-version: 1.20.6
+description: A Minecraft plugin that cleans shulkers from player's inventory on kick due to large packets.
+author: Minelord9000

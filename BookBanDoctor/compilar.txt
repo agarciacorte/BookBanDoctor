@@ -1,0 +1,1 @@
+"C:\Program Files\Maven\apache-maven-3.9.8\bin\mvn" clean package
